@@ -30,7 +30,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 # Introduction
-This is my introduction
+This is my introduction.
+
+# Section
+This is my new section
 
 
 ## R Markdown
